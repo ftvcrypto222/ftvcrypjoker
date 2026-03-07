@@ -1,0 +1,9 @@
+{
+    "IrwinEnable": false,
+    "IrwinLang": ["Russian"],
+    "IrwinTime": ["Baku"],
+    "IrwinLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""] }
+    ]
+ }
