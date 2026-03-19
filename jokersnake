@@ -1,5 +1,5 @@
 {
-    "IrwinEnable": false,
+    "IrwinEnable": true,
     "IrwinLang": ["Spanish"],
     "IrwinTime": ["Buenos_Aires", "Argentina"],
     "IrwinLink": 
